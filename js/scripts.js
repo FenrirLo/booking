@@ -17,7 +17,7 @@ $(document).ready(function() {
     event.preventDefault();
     });
 
-  $(".btnModal").click(function(){
+  $(".btnModal").click(function() {
     $("#myModal").modal();
   });
 
